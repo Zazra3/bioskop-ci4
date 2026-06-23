@@ -6,7 +6,7 @@ Aplikasi web manajemen bioskop sederhana yang dibangun menggunakan framework **C
 - Menampilkan daftar film (Read)
 - Menambahkan data film baru (Create)
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - **Framework:** CodeIgniter 4.x
 - **Bahasa:** PHP >= 8.1
 - **Database:** MySQL / MariaDB
